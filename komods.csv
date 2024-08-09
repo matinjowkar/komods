@@ -18,7 +18,7 @@ Ind,Name,StudentID,LockerNum,Email,GradLev,Status
 16,Alireza Rezaei,,29,,,
 17,Alireza Poorhassan Astaneh,,16,,,
 18,Mobina Golshani Asgar,99100863,71,mobinaaa8094@gmail.com,,
-19,Matin Jowkar,400100146,148,matinjowkar8@gmail.com,Bachelor,Purchased
+19,Matin Jowkar,400100146,Stolen by Karen,matinjowkar8@gmail.com,Bachelor,Purchased
 20,Mehrpooya Ghorbani,,69,,,
 21,Nooshin Torabi,,30,,,
 22,Haniyeh Hatami,,30,,,
@@ -103,7 +103,7 @@ Ind,Name,StudentID,LockerNum,Email,GradLev,Status
 101,Amir Sadeghi,,236,,,
 102,Amirreza Vadadian,,?.?,,,
 103,Abbas Ashjaei ,,175,,,
-104,Yasaman Safaei,,108,,,
+104,Yasaman Safayi,,148,,,
 105,Sepehr Vashaei,,,,,
 106,Sonia Rashidi,,,,,
 107,Yekta Alinezhad,,188,,,
